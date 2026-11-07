@@ -328,7 +328,7 @@ ollama pull llama3.2:3b
 
 ### Deployment Steps
 
-1. **Import the workflow:** Load `workflow.json` into your n8n workspace.
+1. **Import the workflow:** Load `invoices-workflow-sanitized.json` into your n8n workspace.
 2. **Configure credentials:**
    - Google Drive OAuth2
    - Google Sheets OAuth2
